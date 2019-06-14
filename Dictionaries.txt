@@ -1,0 +1,60 @@
+Clarity = "clarity, policy, communication, comprehensible, explicit
+expectations, rules, instruction, clarification, explanation
+clear, precise, accurate, straightforward, protocol
+suggestion, simplicity, certainty, understand, vision
+interpretation, coherent, indication, goal, objective
+duty, responsibility, responsible, unclear, hazy
+recognize, plan, case, review, future
+form, target"
+
+Role_Modeling = "rolemodel, supervisor, obedience, authority, leader
+power, status, exemplary, management, stature
+executive, role-model, authority, leader, head
+ruler, director, exemplar, mentor"
+
+Commitment = "commit, respect, responsibility, promise, motivation
+stimulated, respect, trust, personal, care
+involve, interested, excited, unity, bound
+dignity, appreciation, neglected, devotee, adherent
+advocate, deference, acquiescence, status, stimulate
+responsible, indifferent, participation, frustration, participation
+intrinsic, initiative, innovation, integration, value
+solution, agree, contact, appointee"
+
+Enabling_Environment = "achievability, enabling, achieve, practicability, pressure
+resources, precautions, unrealistic, achievable, goals
+resources, deprivation, circumstance, practical, unworkable
+unreal, pressure, stress, attainable, skill
+knowledge, tired, training, stimulation, confidence
+stimulant, expertise, competence, unsure, hesitant
+bonus, encourage, approach, support, confidence
+assistance, stimulated, motivated, member, check
+improbable, recognize, help"
+
+Transparency = "transparent, visible, secrecy, control, bypass
+detection, caught, transparency, aware, checks
+public, circumvent, disclosure, noticeable, translucence
+mystery, accessible, observation, dodge, observe
+oversee, supervisor, secret, inquiry, designed
+supervise, report, charged, profit, disclosure
+legal, spokeswoman, spokesperson, spokesman, partnership
+detail"
+
+Openness = "discuss, approachable, opinion, advice, agree
+disagreeing, conform, open, acknowledge, understanding
+viewpoint, discuss, review, confer, reconcile
+disagreeable, agree, quarreling, share, debate
+help, advice, comfort, disagree, intimidate
+protest, personal, hierarchy, confidential, quiet"
+
+Accountability = "confront, accountable, conform, accusation, defy
+liable, resist, repel, critical, confrontational
+confrontational, protest, feedback, alert, rule
+reporting, accost"
+
+Enforcement = "punish, stimulate, failure, action, incentive
+discipline, reward, incarcerate, misstep, mistake
+administration, prosecution, dismiss, expel, misdemeanour
+fault, lapse, transgression, infringement, infraction
+violation, prompt, bonus, compulsion, sanction
+issue, credit, learn"
